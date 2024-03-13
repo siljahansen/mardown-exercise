@@ -34,7 +34,9 @@ for (var i = 0; i < myArray.length; i++) {
 </nav>
 ```
 
-![kat der vasker sig](/img/kat.jpg "cat")
+![kat der vasker sig](/img/kat.jpg)
+
+*kat*
 
 ## Citat
 
